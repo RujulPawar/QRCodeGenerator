@@ -7,7 +7,7 @@ import email_validator
 st.markdown("""<style>.st-emotion-cache-sh2krr p{font-size: 20px;}</style>""", unsafe_allow_html=True)
 
 #Define tab names
-tabs = ["URL", "Text", "Email", "Phone"]
+tabs = ["URL", "Text", "Email", "Phone", "PDF"]
 
 #Create tabs
 selected_tab = st.sidebar.selectbox("Select QR Code Type", tabs, index=0)
