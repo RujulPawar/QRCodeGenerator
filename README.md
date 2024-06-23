@@ -13,15 +13,11 @@ This Streamlit application allows users to generate QR codes for URLs, text, ema
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/qrcode-generator.git
+   git clone https://github.com/yourusername/QRCodeGenerator.git
    ```
-2. **Navigate to the project directory:**
+2. **Install the required dependencies:**
    ```sh
-   cd qrcode-generator
-   ```
-3. **Install the required dependencies:**
-   ```sh
-   pip install -r requirements.txt
+   pip install -r Requirements.txt
    ```
 
 ## Usage
